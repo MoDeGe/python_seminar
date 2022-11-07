@@ -1,0 +1,17 @@
+[07.11.2022 13:30:18 ] [INFO] [main] [<module>: 6] => Start
+[07.11.2022 13:30:51 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:30:55 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:31:03 ] [INFO] [view] [ls_menu: 54] => The user has selected item number 4
+[07.11.2022 13:31:05 ] [INFO] [view] [ls_menu: 56] => User entered: 5000
+[07.11.2022 13:32:11 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:32:33 ] [INFO] [view] [ls_menu: 54] => The user has selected item number 4
+[07.11.2022 13:32:35 ] [INFO] [view] [ls_menu: 56] => User entered: 50000
+[07.11.2022 13:32:55 ] [INFO] [view] [ls_menu: 130] => The user has selected item number 7
+[07.11.2022 13:32:57 ] [WARNING] [view] [ls_menu: 164] => User entered an invalid menu value
+[07.11.2022 13:33:01 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:33:30 ] [INFO] [view] [ls_menu: 130] => The user has selected item number 7
+[07.11.2022 13:33:35 ] [INFO] [view] [ls_menu: 136] => The user has selected item number 7.1
+[07.11.2022 13:33:42 ] [INFO] [view] [ls_menu: 138] => User entered: Ivanov
+[07.11.2022 13:33:48 ] [INFO] [view] [ls_menu: 146] => User entered: 24
+[07.11.2022 13:33:50 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:34:26 ] [INFO] [view] [ls_menu: 169] => End
