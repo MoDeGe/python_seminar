@@ -15,3 +15,6 @@
 [07.11.2022 13:33:48 ] [INFO] [view] [ls_menu: 146] => User entered: 24
 [07.11.2022 13:33:50 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
 [07.11.2022 13:34:26 ] [INFO] [view] [ls_menu: 169] => End
+[07.11.2022 13:41:03 ] [INFO] [main] [<module>: 6] => Start
+[07.11.2022 13:41:08 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[07.11.2022 13:46:46 ] [INFO] [view] [ls_menu: 169] => End
